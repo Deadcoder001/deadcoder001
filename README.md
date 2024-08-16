@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ashif Elahi</h1>
-<h3 align="center">I am a Full-Stack developer based in Barpeta, Assam. I hold an MCA from Kaziranga University and am passionate about enhancing my coding skills and developing applications and websites. I specialize in building web applications and websites using the MERN stack, and I focus primarily on back-end development.</h3>
 
 <p align="left"> <a href="https://twitter.com/ashif_elahi01" target="blank"><img src="https://img.shields.io/twitter/follow/ashif_elahi01?logo=twitter&style=for-the-badge" alt="ashif_elahi01" /></a> </p>
 
