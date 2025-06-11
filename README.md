@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on scabbardtech<br><br>- 👨‍💻 All of my projects are available at [https://deadcoder001.github.io/Portfolio-Ashif/](https://deadcoder001.github.io/Portfolio-Ashif/)<br><br>- 📫 How to reach me **Asifelahi6@gmail.com**<br>
+- 🔭 I’m currently working at scabbardtech<br><br>- 👨‍💻 All of my projects are available at [https://deadcoder001.github.io/Portfolio-Ashif/](https://deadcoder001.github.io/Portfolio-Ashif/)<br><br>- 📫 How to reach me **Asifelahi6@gmail.com**<br>
 
 
 ## 🌐 Socials:
