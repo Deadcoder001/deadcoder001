@@ -10,7 +10,7 @@
 
 ###
 
-<p align="right">A Full-Stack Developer with a passion for building robust and scalable applications.</p>
+<p align="center">A Full-Stack Developer with a passion for building robust and scalable applications.</p>
 
 ###
 
