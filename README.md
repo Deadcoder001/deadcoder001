@@ -25,7 +25,6 @@
 * 🚀 I'm currently building innovative solutions as a Full-Stack Developer at **ScabbardTech**.
 * 📂 All of my personal projects are showcased on my [**Portfolio Website**](https://ashifelahi.netlify.app).
 * 🌱 I'm always learning, exploring new technologies, and refining my skills in system design.
-* 💬 Feel free to ask me about **React, Node.js, Express, and Python**.
 
 ---
 
@@ -34,7 +33,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Deadcoder001&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Deadcoder001&theme=radical&hide_border=false" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deadcoder001&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Deadcoder001&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
