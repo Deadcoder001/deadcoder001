@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me
 
 * 🚀 I'm currently building innovative solutions as a Full-Stack Developer at **ScabbardTech**.
-* 📂 All of my personal projects are showcased on my [**Portfolio Website**](https://deadcoder001.github.io/Portfolio-Ashif/).
+* 📂 All of my personal projects are showcased on my [**Portfolio Website**](https://ashifelahi.netlify.app).
 * 🌱 I'm always learning, exploring new technologies, and refining my skills in system design.
 * 💬 Feel free to ask me about **React, Node.js, Express, and Python**.
 
