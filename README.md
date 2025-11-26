@@ -29,7 +29,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deadcoder001&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Deadcoder001&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=14&order=3" height="150" alt="streak graph"  />
 </div>
 
